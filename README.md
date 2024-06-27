@@ -47,7 +47,7 @@ On the back end, I work with Node.js, Express.js, and Spring Boot. I'm proficien
 
 <h2 align="center">🌟 Quote 🌟</h2>
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&border=true&theme=tokyonight&quote=Non%20est%20ad%20astra%20mollis%20e%20terris%20via&author=Seneca)">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&border=true&theme=tokyonight&quote=Non%20est%20ad%20astra%20mollis%20e%20terris%20via&author=Seneca">
 </p>
 
 <h2 align="center">Contact me</h2>
