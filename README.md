@@ -2,7 +2,7 @@
 *Full Stack Developer and Software Architect Enthusiast*
 
 <p align="left">
-I am a passionate Full Stack Developer and Software Architect Enthusiast dedicated to building scalable and efficient software solutions. I excel in Java, JavaScript, and Python, with experience in web applications, RESTful APIs, and microservices. My skills span databases like MySQL, PostgreSQL, MongoDB, and DynamoDB, as well as front-end technologies such as HTML, CSS, React, and Next.js. 
+I am a passionate Full Stack Developer and Software Architect Enthusiast dedicated to building scalable and efficient software solutions. I excel in Java, JavaScript, and Python, with experience in web applications, RESTful APIs, and microservices. My skills span databases like MySQL, PostgreSQL, MongoDB, and DynamoDB, as well as front end technologies such as HTML, CSS, React, and Next.js. 
 
 On the back end, I work with Node.js, Express.js, and Spring Boot. I'm proficient with AWS, Jenkins, GitHub Actions, Vercel, Bash scripting, Git, Docker, Jest, and Postman. I am adept with Linux distributions including Arch Linux, Debian, and Ubuntu. Eager to learn and solve complex problems, I enjoy collaborating on challenging projects and contributing to open-source initiatives.
 </p>
