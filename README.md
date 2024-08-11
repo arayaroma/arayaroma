@@ -1,6 +1,11 @@
 # Hey, I'm araya!
 *Full Stack Developer and Software Architect Enthusiast*
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/arayaroma/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/arayaroma/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</p>
+
 <p align="left">
 I am a passionate Full Stack Developer and Software Architect Enthusiast dedicated to building scalable and efficient software solutions. I excel in Java, JavaScript, and Python, with experience in web applications, RESTful APIs, and microservices. My skills span databases like MySQL, PostgreSQL, MongoDB, and DynamoDB, as well as front end technologies such as HTML, CSS, React, and Next.js. 
 
