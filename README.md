@@ -1,5 +1,5 @@
 # Hey, I'm araya!
-*Full Stack Developer and Software Architect Enthusiast*
+*Full Stack Developer and AI Engineer Enthusiast*
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/arayaroma/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
