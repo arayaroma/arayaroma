@@ -1,73 +1,43 @@
-# Hey, I'm araya!
-*Full Stack Developer and AI Engineer Enthusiast*
+# arayaroma's corner
+*Fullstack Developer, learning about data engineering and AI*
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/arayaroma/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-    <img src="https://raw.githubusercontent.com/arayaroma/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-</p>
+![arayaroma GitHub stats](https://github-readme-stats.vercel.app/api?username=arayaroma&show_icons=true&theme=transparent)
+![arayaroma's Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arayaroma&layout=compact&theme=transparent)
 
-<p align="left">
-I am a passionate Full Stack Developer and Software Architect Enthusiast dedicated to building scalable and efficient software solutions. I excel in Java, JavaScript, and Python, with experience in web applications, RESTful APIs, and microservices. My skills span databases like MySQL, PostgreSQL, MongoDB, and DynamoDB, as well as front end technologies such as HTML, CSS, React, and Next.js. 
+## Current Stack
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+[![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-On the back end, I work with Node.js, Express.js, and Spring Boot. I'm proficient with AWS, Jenkins, GitHub Actions, Vercel, Bash scripting, Git, Docker, Jest, and Postman. I am adept with Linux distributions including Arch Linux, Debian, and Ubuntu. Eager to learn and solve complex problems, I enjoy collaborating on challenging projects and contributing to open-source initiatives.
-</p>
-
-<h2 align="center">🛠️ Current Stack 🛠️</h2>
-
-<!-- Front End Section-->
-<h3 align="left">Front End</h3>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,tailwind,react,next" />
-</p>
-
-<!-- Back End Section-->
-<h3 align="left">Back End</h3>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py" />
-</p>
-
-<!-- Databases Section-->
-<h3 align="left">Databases</h3>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,dynamodb,mongo" />
-</p>
-
-<!-- CI/CD End Section-->
-<h3 align="left">CI/CD Tools</h3>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=aws,jenkins,githubactions,vercel" />
-</p>
-
-<!-- Tools End Section-->
-<h3 align="left">Tools</h3>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=bash,git,docker,prisma,jest,postman" />
-</p>
-
-<!-- Linux Distributions Section-->
-<h3 align="left">Linux Distributions</h3>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=arch,debian,ubuntu" />
-</p>
-
-<h2 align="center">🌟 Quote 🌟</h2>
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&border=true&theme=tokyonight&quote=Non%20est%20ad%20astra%20mollis%20e%20terris%20via&author=Seneca">
-</p>
-
-<h2 align="center">Contact me</h2>
-<p align="left">
-Feel free to reach out to me,
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Whether you have a question about my work, need advice on a project, or just want to network, I'm happy to connect. Here are the best ways to get in touch with me.
-</p>
-
-<p align="center">
-    <a href="mailto:daniel.araya.roman@est.una.ac.cr">
-        <img src="https://skillicons.dev/icons?i=gmail" />
-    </a>
-    <a href="https://github.com/arayaroma">
-        <img src="https://skillicons.dev/icons?i=github" />
-    </a>
-</p>
-<br/>
+## Contact
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:darayaroma@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/arayaroma)
