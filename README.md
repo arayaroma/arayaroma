@@ -1,12 +1,13 @@
 # arayaroma's corner
-*Fullstack developer building AI dev tooling and HTTP security middleware — also digging into data engineering.*
+*Software engineer building AI dev tooling and HTTP security middleware.*
 
 ![arayaroma GitHub stats](https://github-readme-stats.vercel.app/api?username=arayaroma&show_icons=true&theme=transparent)
 ![arayaroma's Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arayaroma&layout=compact&theme=transparent)
 
 ## Currently building
-- **[go-sentinel](https://github.com/arayaroma/go-sentinel)** / **[ts-sentinel](https://github.com/arayaroma/ts-sentinel)** / **[nest-sentinel](https://github.com/arayaroma/nest-sentinel)** — dependency-free baseline HTTP security middleware (auth, rate limiting, secure headers, input validation), same design ported across Go, TypeScript, and NestJS.
+- **[go-sentinel](https://github.com/arayaroma/go-sentinel)** / **[ts-sentinel](https://github.com/arayaroma/ts-sentinel)** / **[nest-sentinel](https://github.com/arayaroma/nest-sentinel)** — dependency-free baseline HTTP security middleware (auth, rate limiting, secure headers, input validation, tamper-evident audit logging), same design ported across Go, TypeScript, and NestJS.
 - **[ether](https://github.com/arayaroma/ether)** — local-only, spec-driven development harness for Claude Code: enforced phase gates, TDD checks, a learning log, zero network calls.
+- An AI dev-tooling stack (spec-driven change harness, agent orchestration, internal docs/paper cataloging) built around Claude Code agents.
 
 ## Current Stack
 
@@ -17,6 +18,7 @@
 
 **Frontend**
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
@@ -27,15 +29,17 @@
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)](#)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
 
+**AI**
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![Anthropic](https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=fff)](#)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+
 **Data**
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
-[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
-[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 
 **Cloud & Infra**
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
