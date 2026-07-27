@@ -1,8 +1,12 @@
 # arayaroma's corner
-*Fullstack Developer, learning about data engineering and AI*
+*Fullstack developer building AI dev tooling and HTTP security middleware — also digging into data engineering.*
 
 ![arayaroma GitHub stats](https://github-readme-stats.vercel.app/api?username=arayaroma&show_icons=true&theme=transparent)
 ![arayaroma's Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arayaroma&layout=compact&theme=transparent)
+
+## Currently building
+- **[go-sentinel](https://github.com/arayaroma/go-sentinel)** / **[ts-sentinel](https://github.com/arayaroma/ts-sentinel)** / **[nest-sentinel](https://github.com/arayaroma/nest-sentinel)** — dependency-free baseline HTTP security middleware (auth, rate limiting, secure headers, input validation), same design ported across Go, TypeScript, and NestJS.
+- **[ether](https://github.com/arayaroma/ether)** — local-only, spec-driven development harness for Claude Code: enforced phase gates, TDD checks, a learning log, zero network calls.
 
 ## Current Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
